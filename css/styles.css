@@ -1,0 +1,32 @@
+body {
+    background-color: #f5f5f5;
+    font-family: 'Public Sans', sans-serif;
+    color: #0f0f0f;
+}
+
+hr {
+    border-style: none;
+    height: 1.5px;
+    background-color: black;
+}
+
+/* img {
+    border-radius: 0%;
+} */
+
+/* img:hover {
+    outline: solid 5px #fada5e;
+    height: 500px;
+}
+
+.djungie {
+    outline: solid 4px #922724;
+}
+
+.dogs {
+    outline: solid 4px #0f4d92;
+}
+
+.cat {
+    outline: solid 4px #b57281;
+} */
